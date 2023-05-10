@@ -1,0 +1,1 @@
+EXPLAIN ANALYZE SELECT gid, location FROM tldd WHERE name = 'Tulsa';
